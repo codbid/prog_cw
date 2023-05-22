@@ -3,9 +3,9 @@
 The program searches for palindromic sentences in a text file.
 
 Usage:
-make
-cd bin
-export PATH=$PATH:bin/
+make && 
+cd bin && 
+export PATH=$PATH:bin/ &&
 palindrome text.txt
 
 
